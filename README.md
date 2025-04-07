@@ -1,10 +1,10 @@
 # YOLO Models
 
-## YOLOv1 Models (Original YOLO by Joseph Redmon)
+## YOLOv1 Models (Original YOLO by Joseph Redmon - https://github.com/pjh5672/YOLOv1)
 - Original YOLOv1: wget -P models https://pjreddie.com/media/files/yolov1/yolov1.weights
 - YOLOv1 Tiny: wget -P models https://pjreddie.com/media/files/yolov1/yolov1-tiny.weights
 
-## YOLOv2 Models (YOLO9000 by Joseph Redmon)
+## YOLOv2 Models (YOLO9000 by Joseph Redmon - https://github.com/pjh5672/YOLOv2)
 - YOLOv2: wget -P models https://pjreddie.com/media/files/yolov2/yolov2.weights
 - YOLOv2 Tiny: wget -P models https://pjreddie.com/media/files/yolov2/yolov2-tiny.weights
 
