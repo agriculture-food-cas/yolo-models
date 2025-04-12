@@ -1,0 +1,5 @@
+Collecting addict
+  Downloading addict-2.4.0-py3-none-any.whl.metadata (1.0 kB)
+Downloading addict-2.4.0-py3-none-any.whl (3.8 kB)
+Installing collected packages: addict
+Successfully installed addict-2.4.0
