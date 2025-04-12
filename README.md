@@ -33,7 +33,7 @@ To download the models, use the `wget` command as shown below for each model. En
 - YOLOv5 XLarge: wget -P models https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5x.pt
 
 ### Segmentation Models
-- YOLOv5 Nano Segmentation: wget -P models https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5n-seg.pt
+- YOLOv5 Nano Segmentation: wget -P models https://github.com/ultralytics/yolov5/releases/download/v8.3.0/yolov5n-seg.pt
 - YOLOv5 Small Segmentation: wget -P models https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s-seg.pt
 - YOLOv5 Medium Segmentation: wget -P models https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5m-seg.pt
 - YOLOv5 Large Segmentation: wget -P models https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5l-seg.pt
